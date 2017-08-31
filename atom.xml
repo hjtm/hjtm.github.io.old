@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>현자 타임</title>
+  <subtitle>HyunjaTime</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hjtm.github.io/"/>
+  <updated>2017-08-28T11:22:47.000Z</updated>
+  <id>http://hjtm.github.io/</id>
+  
+  <author>
+    <name>Wiseman</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>시작하며</title>
+    <link href="http://hjtm.github.io/20170828/gotchazipc/starting/"/>
+    <id>http://hjtm.github.io/20170828/gotchazipc/starting/</id>
+    <published>2017-08-28T11:20:28.000Z</published>
+    <updated>2017-08-28T11:22:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>살면서 아는 것도 좀 생기고 챙길 것도 좀 늘어갈수록 입이 무거워지고 손가락이 느려지는 것은 피할 수 없는 일이다, 라고 써놓고 나서 보니 참 치졸한 변명이다. 이제와 돌이켜보면, 나의 현명한 친구들은 그다지 시끄럽게 떠들지 않았다. 스스로에 대해서든, 속세의 일에 대해서든. 일찍 철이 든 녀석들은 미처 입을 열기도 전에 침묵의 금광을 먼저 열었던 것이리라. 물론 개중엔 마냥 침묵에 젖어있지는 않은 이들도 있긴 있었다. 바보가 미치면 산도 옮긴다고, 간절함이 닿으면 필부의 잡문조차도 능히 AT 필드를 찢어 발기고도 남는 것을 나는 보았다. 그러나 나는 그조차도 아니었으니, 내게 무슨 간절함이 있었겠는가. 먹고 살만은 했고, 미쳐 죽을 정도는 아니었다. 나여 복되었구나. 공짜로 똑똑해지다니. </p>
+<p>나처럼 그다지 간절하지 않은 자들은 잉여력이 생기면, 일단은 종이를 펴고 어떤 글을 쓸지 한참 생각한다. 생각을 하고, 또 하다가, 생각만 하다가, 결국 펜을 집어 던지고 뭘 쓰기로 했는지 잊어 먹는다. 가끔 종이를 펴는 대신 블로그를 만들기도 한다. 테마를 꾸미고, CSS를 만지고, syntax highliting 을 위해 script를 테스트하다 갑자기 문득 하늘에서 떨군 혹은 땅에서 솟은 지혜를 만나는 것이다. 아서라, 대체 쓰긴 뭘 쓴단 말이냐. </p>
+<p>그래서- It’s 현자 타임이다. 대부분의 시간에 침묵을 지키는 현명한 자들 - 혹은 현명한척 하는 자들 - 을 위해 만든 블로그다. 뭘 쓰게 될진 여전히 모르지만, 그래도 가끔 잉여력이 창궐할 것임을 믿는다.  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;살면서 아는 것도 좀 생기고 챙길 것도 좀 늘어갈수록 입이 무거워지고 손가락이 느려지는 것은 피할 수 없는 일이다, 라고 써놓고 나서 보니 참 치졸한 변명이다. 이제와 돌이켜보면, 나의 현명한 친구들은 그다지 시끄럽게 떠들지 않았다. 스스로에 대
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
